@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Red
+1. Blue
+3. Green
+ * Hello
+ 
+ :heart:
