@@ -1,1 +1,4 @@
-Replace this with a link to your a GitHub or social media profile.
+[Miranda Wagner's LinkedIn page](http://linkedin.com/in/mirandawagner)
+
+
+
