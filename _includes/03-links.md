@@ -1,4 +1,8 @@
-[Miranda Wagner's LinkedIn page](http://linkedin.com/in/mirandawagner)
+[My Portfolio](github.com/entertaining30/markdown-portfolio)
+
+
+
+
 
 
 
