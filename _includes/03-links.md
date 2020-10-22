@@ -1,8 +1,1 @@
-[My Portfolio](github.com/entertaining30/markdown-portfolio)
-
-
-
-
-
-
-
+[My Portfolio](http://linkedin.com/in/mirandawagner)
